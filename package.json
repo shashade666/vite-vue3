@@ -18,7 +18,7 @@
       "eslint --fix",
     ],
     "*.{html,vue,vss,sass,less}": [
-      "prettier --write",
+      "prettier --write"
     ],
     "package.json": [
       "prettier --write"
