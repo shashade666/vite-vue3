@@ -15,7 +15,7 @@
     ],
     "*.vue": [
       "prettier --write",
-      "eslint --fix",
+      "eslint --fix"
     ],
     "*.{html,vue,vss,sass,less}": [
       "prettier --write"
