@@ -6,7 +6,7 @@
 </template>
 <script setup lang="ts">
 import { onMounted } from 'vue';
-import { useCounterStore } from '@/store/index.js';
+import { useCounterStore } from '@/store/index';
 import HelloWorld from '@/components/HelloWorld.vue';
 
 const counter = useCounterStore();
